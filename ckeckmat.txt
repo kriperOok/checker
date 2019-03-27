@@ -1,1 +1,1 @@
-[Wrapped{mcp}, Wrapped{FML}, Wrapped{Forge}, Wrapped{CodeChickenCore}, Wrapped{NotEnoughItems}, FMLMod:mod01{0.30}, FMLMod:FIXSOSISKI{0.1b}, FMLMod:вфцв{1.0}, FMLMod:ModMenu{3.0}, FMLMod:IC2{2.0.397-experimental}]
+Wrapped{mcp}, Wrapped{FML}, Wrapped{Forge}, Wrapped{CodeChickenCore}, Wrapped{NotEnoughItems}, FMLMod:mod01{0.30}, FMLMod:FIXSOSISKI{0.1b}, FMLMod:вфцв{1.0}, FMLMod:ModMenu{3.0}, FMLMod:IC2{2.0.397-experimental}
